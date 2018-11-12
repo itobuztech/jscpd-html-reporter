@@ -25,6 +25,6 @@
   "homepage": "https://github.com/SpitfireSatya/jscpd-html-reporter#readme",
   "dependencies": {
     "handlebars": "^4.0.11",
-    "jscpd": "^0.6.17"
+    "jscpd": "^0.6.25"
   }
 }
